@@ -14,16 +14,20 @@ body{
 .nav_bar{
     background-color: rgba(255, 255, 255, 0.829);
     display: flex;
+    justify-content: space-around;
 }
 
-.navbar_links ul{
+ul{
 
     display: flex;
+     justify-content: space-between;
+    
 }
 
-.navbar_links li{
+li{
 
     justify-content: space-around;
+   
 }
 
 
