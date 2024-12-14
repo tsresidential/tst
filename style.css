@@ -17,10 +17,10 @@ body{
     justify-content: space-around;
 }
 
-ul{
+.nav_bar ul {
 
     display: flex;
-     justify-content: space-between;
+    justify-content: space-between;
     
 }
 
